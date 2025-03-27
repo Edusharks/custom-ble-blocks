@@ -13,7 +13,9 @@
         "blocks.ts",
         "shims.d.ts",
         "ns.ts",
-        "custombleservice.ts"
+        "custombleservice.ts",
+        "ble-service.h",
+        "ble-service.cpp"
     ],
     "testFiles": [
         "test.ts"
